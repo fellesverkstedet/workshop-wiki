@@ -1,1 +1,1 @@
-# You can find the [felles wiki page here](https://github.com/fellesverkstedet/felles-wiki/wiki)
+# You can find the [felles wiki page here](https://fellesverkstedet.notion.site/)
